@@ -5,7 +5,6 @@
 // import React from 'react';
 
 // const Pagination = ({ pageNumber, paginate, next, prev, currentPage }) => {
-//     // Current page set: only display 3 pages at a time
 //     const startPage = Math.max(currentPage - 2, 1);
 //     const endPage = Math.min(startPage + 2, pageNumber.length);
 
